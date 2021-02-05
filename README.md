@@ -8,31 +8,31 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 <u>Programming Languages :black_nib:</u>
 
-​     ○ JavaScript :star::star::star:
+​		JavaScript :star::star::star:
 
-​     ○ Go:star::star:
+​		Go:star::star:
 
-​     ○ C :star::star:
+​     	C :star::star:
 
-​     ○ Java :star::star:
+​     	Java :star::star:
 
-​     ○ Dart :star:
+​    	Dart :star:
 
 <u>Frameworks</u>
 
-​     * React/React Native :star::star::star:
+​     	React/React Native :star::star::star:
 
-​     * GatsbyJS :star::star::star:
+​     	GatsbyJS :star::star::star:
 
-​     ○ExpressJS​ :star::star:
+​    	ExpressJS :star::star:
 
-​     ○NodeJs :star::star:
+​     	NodeJs :star::star:
 
 <u>Database :floppy_disk::cloud:</u>
 
-​     ○Heroku​ :star::star:
+​    	Heroku :star::star:
 
-​     ○MongoDB :star:
+​    	MongoDB :star:
 
 
 
