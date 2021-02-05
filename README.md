@@ -6,7 +6,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 
 
-<u>Programming Languages :black_nib:</u>
+​<u>Programming Languages :black_nib:</u>
 
 ​		JavaScript :star::star::star:
 
@@ -18,7 +18,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 ​    	Dart :star:
 
-<u>Frameworks</u>
+​<u>Frameworks</u>
 
 ​     	React/React Native :star::star::star:
 
@@ -28,7 +28,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 ​     	NodeJs :star::star:
 
-<u>Database :floppy_disk::cloud:</u>
+​<u>Database :floppy_disk::cloud:</u>
 
 ​    	Heroku :star::star:
 
