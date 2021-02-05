@@ -8,7 +8,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 <u>Programming Languages :black_nib:</u>
 
-​		JavaScript :star::star::star:
+		JavaScript :star::star::star:
 
 ​		Go:star::star:
 
