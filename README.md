@@ -1,16 +1,41 @@
-### Hi there 👋
+Hello World :wave: I'm Yasir Azizi
 
-<!--
-**yasir720/yasir720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third year Computer Science student :school_satchel::computer: in Toronto :city_sunrise:
 
-Here are some ideas to get you started:
+Software Engineer @ RunAway App :microscope::iphone:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Programming Languages :black_nib:
+
+​     ○ JavaScript :star::star::star:
+
+​     ○ Go:star::star:
+
+​     ○ C :star::star:
+
+​     ○ Java :star::star:
+
+​     ○ Dart :star:
+
+Frameworks
+
+​     ○ React/React Native :star::star::star:
+
+​     ○ GatsbyJS :star::star::star:
+
+​     ○ExpressJS​ :star::star:
+
+​     ○NodeJs :star::star:
+
+Database :floppy_disk::cloud:
+
+​     ○Heroku​ :star::star:
+
+​     ○MongoDB :star:	
+
+
+
+I'm currently trying to learn more about AWS and Flutter 📚
+
+Thanks for taking a look at my GitHub :smiley::exclamation:  I'm always interested in ways to make the world a better place  through code. Feel free to connect with me and shoot me a message on LinkedIn :gun:✉️​
