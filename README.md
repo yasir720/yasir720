@@ -1,4 +1,4 @@
-Hello World :wave: I'm Yasir Azizi
+## Hello World :wave: I'm Yasir Azizi
 
 Third year Computer Science student :school_satchel::computer: in Toronto :city_sunrise:
 
@@ -6,7 +6,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 
 
-Programming Languages :black_nib:
+<u>Programming Languages :black_nib:</u>
 
 ​     ○ JavaScript :star::star::star:
 
@@ -18,24 +18,28 @@ Programming Languages :black_nib:
 
 ​     ○ Dart :star:
 
-Frameworks
+<u>Frameworks</u>
 
-​     ○ React/React Native :star::star::star:
+​     * React/React Native :star::star::star:
 
-​     ○ GatsbyJS :star::star::star:
+​     * GatsbyJS :star::star::star:
 
 ​     ○ExpressJS​ :star::star:
 
 ​     ○NodeJs :star::star:
 
-Database :floppy_disk::cloud:
+<u>Database :floppy_disk::cloud:</u>
 
 ​     ○Heroku​ :star::star:
 
-​     ○MongoDB :star:	
+​     ○MongoDB :star:
+
+
+
+
 
 
 
 I'm currently trying to learn more about AWS and Flutter 📚
 
-Thanks for taking a look at my GitHub :smiley::exclamation:  I'm always interested in ways to make the world a better place  through code. Feel free to connect with me and shoot me a message on LinkedIn :gun:✉️​
+Thanks for taking a look at my GitHub :smiley::exclamation:  I'm always interested in ways to **make the world a better place  through code**. Feel free to connect with me and shoot me a message on LinkedIn :gun:✉️​
