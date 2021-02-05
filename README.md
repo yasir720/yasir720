@@ -12,7 +12,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 ​		Go:star::star:
 
-​     	C :star::star:
+​  * C :star::star:
 
 ​     	Java :star::star:
 
