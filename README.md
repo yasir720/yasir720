@@ -6,19 +6,19 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 
 
-​<u>Programming Languages :black_nib:</u>
+##### Programming Languages :black_nib:
 
 ​		JavaScript :star::star::star:
 
 ​		Go:star::star:
 
-​  * C :star::star:
+​     	C :star::star:
 
 ​     	Java :star::star:
 
 ​    	Dart :star:
 
-​<u>Frameworks</u>
+##### Frameworks
 
 ​     	React/React Native :star::star::star:
 
@@ -28,7 +28,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
 ​     	NodeJs :star::star:
 
-​<u>Database :floppy_disk::cloud:</u>
+##### Database :floppy_disk::cloud:
 
 ​    	Heroku :star::star:
 
