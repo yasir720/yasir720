@@ -32,7 +32,7 @@ Software Engineer @ RunAway App :microscope::iphone:
 
    - Heroku :star::star:
 
-   - MongoDB :star:     
+   - MongoDB :star::star:      
 
 <br>
 I'm currently trying to learn more about AWS and Flutter 📚
