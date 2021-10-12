@@ -1,6 +1,6 @@
 ## Hello World :wave: I'm Yasir Azizi
 
-Third year Computer Science student :school_satchel::computer: in Toronto :city_sunrise:
+Fourth year Computer Science student :school_satchel::computer: in Toronto :city_sunrise:
 
 Software Engineer @ RunAway App :microscope::iphone:
 
