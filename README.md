@@ -2,7 +2,7 @@
 
 Fourth year Computer Science student :school_satchel::computer: in Toronto :city_sunrise:
 
-Software Engineer @ RunAway App :microscope::iphone:
+Junior AI Engineer @ Bit Space Development :microscope::iphone:
 
 
 
