@@ -35,6 +35,6 @@ Junior AI Engineer @ Bit Space Development :microscope::iphone:
    - MongoDB :star::star:      
 
 <br>
-I'm currently trying to learn more about AWS and Flutter 📚
+I'm currently trying to learn more about AWS and ML 📚
 
 Thanks for taking a look at my GitHub :smiley::exclamation:  I'm always interested in ways to **make the world a better place through code**. I'm currently trying to learn more about AWS and Flutter 📚. Feel free to connect with me and shoot me a message on LinkedIn :gun:✉️​
