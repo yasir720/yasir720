@@ -8,10 +8,10 @@ Junior AI Engineer @ Bit Space Development :microscope::iphone:
 
 #### Programming Languages :black_nib:
 
+   - Go :star::star::star:
+   - 
    - JavaScript :star::star::star:
-
-   - Go:star::star:
-
+   - 
    - C :star::star:
 
    - Java :star::star:
