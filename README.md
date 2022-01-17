@@ -18,7 +18,7 @@ Junior AI Engineer @ Bit Space Development :microscope::iphone:
 
    - Dart :star:
 
-#### Frameworks
+#### Frameworks 🏗️🛠️
 
    - React/React Native :star::star::star:
 
