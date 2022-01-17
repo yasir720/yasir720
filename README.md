@@ -6,7 +6,7 @@ Junior AI Engineer @ Bit Space Development :microscope::iphone:
 
 
 
-#### Programming Languages :black_nib:
+#### Programming Languages :black_nib:✍️
 
    - Go :star::star::star:
 
