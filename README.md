@@ -1,40 +1,42 @@
-## Hello World :wave: I'm Yasir Azizi
+# Hello World 👋 I'm Yasir Azizi  
+Software Engineer & Machine Learning Enthusiast from Toronto 🌇🎒💻  
 
-Fourth year Computer Science student :school_satchel::computer: in Toronto :city_sunrise:
+Junior AI Engineer @ Bit Space Development 🔬📱 | Software Engineer - AI Training @ Outlier 🧠  
 
-Junior AI Engineer @ Bit Space Development :microscope::iphone:
+---
 
+## Programming Languages ✒️⚡  
+- Go ⭐⭐⭐⭐⭐  
+- Python ⭐⭐⭐⭐  
+- JavaScript ⭐⭐⭐  
+- C ⭐⭐  
+- Java ⭐⭐  
+- Dart ⭐  
 
+---
 
-#### Programming Languages :black_nib::zap:
+## Frameworks & Libraries 🏗️🛠️  
+- React / React Native ⭐⭐⭐  
+- TensorFlow ⭐⭐  
+- PyTorch ⭐⭐  
+- ExpressJS ⭐⭐  
+- Node.js ⭐⭐  
+- NumPy / Pandas / Scikit-learn ⭐⭐  
 
-   - Go :star::star::star:
+---
 
-   - JavaScript :star::star::star:
+## Databases & Cloud 💾☁️  
+- MongoDB ⭐⭐  
+- Heroku ⭐⭐  
+- AWS (SageMaker, Lambda, S3) ⭐⭐  
 
-   - C :star::star:
+---
 
-   - Java :star::star:
+## About Me  
+I’m a Computer Science graduate with over 3 years of experience in machine learning (computer vision, NLP, LLMs), front-end development, and data visualization. I’m passionate about creating impactful software that makes the world better through code.  
 
-   - Dart :star:
+Currently, I’m deepening my expertise in AWS cloud services and exploring Flutter development 📚. I love mentoring others and collaborating on projects that push the boundaries of AI and software engineering.  
 
-#### Frameworks 🏗️🛠️
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yasirazizi/) or drop a message anytime!  
 
-   - React/React Native :star::star::star:
-
-   - GatsbyJS :star::star::star:
-
-   - ExpressJS :star::star:
-
-   - NodeJs :star::star:
-
-#### Database :floppy_disk::cloud:
-
-   - Heroku :star::star:
-
-   - MongoDB :star::star:      
-
-<br>
-I'm currently trying to learn more about AWS and ML 📚
-
-Thanks for taking a look at my GitHub :smiley::exclamation:  I'm always interested in ways to **make the world a better place through code**. I'm currently trying to learn more about AWS and Flutter 📚. Feel free to connect with me and shoot me a message on LinkedIn :gun:✉️​
+Thanks for stopping by my GitHub 😃❗  
