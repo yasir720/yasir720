@@ -1,7 +1,7 @@
 # Hello World 👋 I'm Yasir Azizi  
 Software Engineer & Machine Learning Enthusiast from Toronto 🌇🎒💻  
 
-Junior AI Engineer @ Bit Space Development 🔬📱 | Software Engineer - AI Training @ Outlier 🧠  
+Machine Learning Engineer @ Bit Space Development 🔬📱 | Software Engineer - AI Training @ Outlier 🧠  
 
 ---
 
