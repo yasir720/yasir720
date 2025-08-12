@@ -6,29 +6,29 @@ Junior AI Engineer @ Bit Space Development 🔬📱 | Software Engineer - AI Tra
 ---
 
 ## Programming Languages ✒️⚡  
-- Go ⭐⭐⭐⭐⭐  
-- Python ⭐⭐⭐⭐  
-- JavaScript ⭐⭐⭐  
-- C ⭐⭐  
-- Java ⭐⭐  
-- Dart ⭐  
+- Go
+- Python
+- JavaScript
+- C
+- Java
+- Dart
 
 ---
 
 ## Frameworks & Libraries 🏗️🛠️  
-- React / React Native ⭐⭐⭐  
-- TensorFlow ⭐⭐  
-- PyTorch ⭐⭐  
-- ExpressJS ⭐⭐  
-- Node.js ⭐⭐  
-- NumPy / Pandas / Scikit-learn ⭐⭐  
+- React / React Native
+- TensorFlow
+- PyTorch
+- ExpressJS
+- Node.js
+- NumPy / Pandas / Scikit-learn
 
 ---
 
 ## Databases & Cloud 💾☁️  
-- MongoDB ⭐⭐  
-- Heroku ⭐⭐  
-- AWS (SageMaker, Lambda, S3) ⭐⭐  
+- MongoDB
+- Heroku
+- AWS (SageMaker, Lambda, S3)
 
 ---
 
